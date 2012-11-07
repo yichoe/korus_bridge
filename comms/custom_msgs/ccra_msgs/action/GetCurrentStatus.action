@@ -1,0 +1,9 @@
+uint32 Tag
+---
+uint32 Error
+float64 X
+float64 Y
+float64 Theta
+float64 Tilt
+---
+uint32 Error
