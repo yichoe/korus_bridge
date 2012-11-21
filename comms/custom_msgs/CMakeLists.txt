@@ -35,6 +35,7 @@ foreach(subdir
     rapi_msgs
     vision_msgs
     ccra_msgs
+    gripper_msgs
     )
   add_subdirectory(${subdir})
 endforeach()
