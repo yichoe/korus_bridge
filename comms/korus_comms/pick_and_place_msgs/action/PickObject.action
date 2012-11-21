@@ -1,0 +1,6 @@
+string Name
+---
+uint32 Error
+---
+uint32 Error
+uint32 State
