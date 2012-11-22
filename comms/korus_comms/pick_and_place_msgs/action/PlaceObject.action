@@ -1,6 +1,0 @@
-geometry_msgs/PoseStamped pose
----
-uint32 Error
----
-uint32 Error
-uint32 State
