@@ -1,0 +1,17 @@
+<package>
+  <catkin/>
+  <description brief="rapi_msgs">
+
+     rapi_msgs
+
+  </description>
+  <author>yujin</author>
+  <license>BSD</license>
+  <review status="experimental" notes=""/>
+  <url>http://ros.org/wiki/rapi_msgs</url>
+  <depend package="std_msgs"/>
+
+
+  <!-- don't need any depends info in the manifest anymore -->
+ 
+</package>

@@ -1,0 +1,7 @@
+---
+uint32 Error
+uint32 NumberOfObjects
+object[] Objects
+---
+uint32 Error
+uint32 State

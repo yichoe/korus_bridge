@@ -1,0 +1,20 @@
+<stack>
+  <name>custom_msgs</name>
+  <version>0.1.0</version>
+  <description brief="custom_msgs">
+
+     custom_msgs
+
+  </description>
+  <author>Maintained by yujin</author>
+  <license>BSD</license>  
+  <copyright>yujin</copyright>
+  <review status="experimental" notes=""/>
+  <url>http://ros.org/wiki/custom_msgs</url>
+  <build_depends>catkin</build_depends>
+  <build_depends>genmsg</build_depends>
+  <build_depends>std_msgs</build_depends>
+  <build_depends>common_msgs</build_depends>
+  <build_depends>ros_comm</build_depends>
+
+</stack>
