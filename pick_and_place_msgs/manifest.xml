@@ -1,0 +1,17 @@
+<package>
+  <catkin/>
+  <description brief="pick_and_place_msgs">
+
+     pick_and_place_msgs
+
+  </description>
+  <author>yujin</author>
+  <license>BSD</license>
+  <review status="experimental" notes=""/>
+  <url>http://ros.org/wiki/pick_and_place_msgs</url>
+  <depend package="std_msgs"/>
+
+
+  <!-- don't need any depends info in the manifest anymore -->
+ 
+</package>
